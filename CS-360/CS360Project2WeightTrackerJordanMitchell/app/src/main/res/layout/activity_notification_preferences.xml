@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NotificationPreferencesActivity">
+
+    <!-- Centered Container -->
+    <LinearLayout
+        android:id="@+id/mainContainer"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <!-- Title -->
+        <TextView
+            android:id="@+id/textNotificationTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="Notification Preferences"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/darker_gray"
+            android:gravity="center"/>
+
+        <!-- Checkboxes -->
+        <CheckBox
+            android:id="@+id/checkBoxAchievements"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="Achievement Notifications"
+            android:textSize="18sp"/>
+
+        <CheckBox
+            android:id="@+id/checkBoxGoalReminders"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="Upcoming Goal Reminders"
+            android:textSize="18sp"/>
+
+        <CheckBox
+            android:id="@+id/checkBoxDailyReminders"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="Daily Reminders"
+            android:textSize="18sp"/>
+
+        <!-- Save Preferences Button -->
+        <Button
+            android:id="@+id/buttonSavePreferences"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1.1"
+            android:text="SAVE PREFERENCES"
+            android:textAllCaps="true"
+            android:padding="12dp"/>
+
+        <!-- Back Button -->
+        <Button
+            android:id="@+id/buttonBack"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1.1"
+            android:text="BACK"
+            android:textAllCaps="true"
+            android:padding="12dp"/>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
