@@ -1,6 +1,8 @@
-# CS-499 Capstone
+# Jordan Mitchell's Capstone Portfolio
 
-## Capstone Portfolio Projects
+Hello! Welcome to my portfolio. Below are three key projects that demonstrate my experience working with software design, algorithms, and databases.
+
+## Portfolio Projects
 
 - [CS-360: Weight Tracker App](./cs360/)
 - [CS-300: Algorithms & Data Structures Project](./cs300/)
