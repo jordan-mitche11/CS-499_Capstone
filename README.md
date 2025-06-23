@@ -59,7 +59,7 @@ This project gave me the chance to improve my problem solving and algorithm desi
 **Category**: Databases  
 **Description**: A MongoDB-powered dashboard that visualizes animal shelter outcomes. Enhancements included optimization for large datasets and additional graph options for user interaction.
 <details> <summary><strong> What I Learned </strong></summary> <br>
-This project gave me the chance to experiment with data analysis and full stack development by building a dynamic, interactive dashboard. I used tools like Dash and Pandas to connect a database, manage user input, and display the data in a way that made sense. I feel that it helped me meet the learning outcome related to working with databases and current data tools, and also showed me how to make complex data easier for others to understand.
+The animal shelter project was a great opportunity to experiment with data analysis and full stack development by building a dynamic, interactive dashboard. I used tools like Dash and Pandas to connect a database, manage user input, and display the data in a way that made sense. I feel that it helped me meet the learning outcome related to working with databases and current data tools, and also showed me how to make complex data easier for others to understand.
 </details>
 
 - [Original Code](./cs340/CS-340%20Animal%20Shelter%20Dashboard/CS340%20Project%20Two%20ORIGINAL.zip)
