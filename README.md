@@ -1,3 +1,5 @@
+View the live portfolio here: https://jordan-mitche11.github.io/CS-499_Capstone/
+
 # Jordan Mitchell's Capstone Portfolio
 
 Hello! Welcome to my portfolio. Below are three key projects that demonstrate my experience working with software design, algorithms, and databases.
