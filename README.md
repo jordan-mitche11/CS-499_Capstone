@@ -2,8 +2,10 @@
 
 ---
 
-### Self-Assessment
-<details open> <summary><strong> My Time at SNHU</strong> (Click to Read More)</summary> <br>
+Hello! Welcome to my portfolio. Below are three key projects that demonstrate my experience working with software design, algorithms, and databases. Each section below includes both the original work and enhanced versions completed during my capstone.
+
+### **_Assessment_**
+<details> <summary><strong> My Time at SNHU </strong> (Click to Read More)</summary> <br>
 
 Over the course of this program, I’ve grown a lot as a developer. Coming into it, I had some basic coding experience, but I didn’t fully understand how to build real, usable software. Through each class and project, I’ve been able to take what I’ve learned and apply it in more hands on ways. This final capstone gave me a great opportunity to pull everything together and reflect on how much I’ve improved and where I want to go from here.
 
@@ -22,10 +24,6 @@ Looking at all three of my artifacts together, I think they give a good picture 
 Putting this portfolio together helped me realize how far I’ve come. It’s also made me excited to keep learning. I want to keep growing as a developer, improve my skills, and eventually work in a place where I can build software that helps people. I’ve got a clearer idea of where I’m headed next. I know what I enjoy, what I still need to work on, and the kind of work I want to do. This program gave me a strong foundation, and I’m ready to take the next step.
 </details>
 
----
-
-Hello! Welcome to my portfolio. Below are three key projects that demonstrate my experience working with software design, algorithms, and databases. Each section below includes both the original work and enhanced versions completed during my capstone.
-
 [Click here to view the live portfolio](https://jordan-mitche11.github.io/CS-499_Capstone/)
 
 ## Projects Overview
@@ -33,6 +31,9 @@ Hello! Welcome to my portfolio. Below are three key projects that demonstrate my
 ### CS-360: Weight Tracker App
 **Category**: Software Design & Engineering  
 **Description**: An Android app designed to help users log their weight and track progress toward personal goals. The enhancement added dynamic progress updates and improved in-code documentation.
+<details> <summary><strong> What I Learned </strong></summary> <br>
+Working on the weight tracker app helped me strengthen my understanding of user focused design and mobile development. I met the course learning outcomes related to software design and engineering by implementing clean architecture, improving documentation, and making the interface more intuitive based on feedback. I was able to hone my ability to apply design principles in a way that balances functionality with usability.
+</details>
 
 - [Original Code](./cs360/CS-360%20Weight%20Tracker%20App/CS360%20Project%20Weight%20Tracker%20ORIGINAL.zip)
 - [Enhanced Code](./cs360/CS-360%20Weight%20Tracker%20App/CS499%20ENHANCED%20CS360%20Project%202%20Weight%20Tracker.zip)
@@ -44,6 +45,9 @@ Hello! Welcome to my portfolio. Below are three key projects that demonstrate my
 ### CS-300: Algorithms & Data Structures Project  
 **Category**: Algorithms and Data Structures  
 **Description**: A C++ program that uses a binary search tree to manage and sort academic course data. The enhancement focused on logic improvements, duplicate prevention, and sorting functionality.
+<details> <summary><strong> What I Learned </strong></summary> <br>
+This project gave me the chance to improve my problem solving and algorithm design skills. I reinforced concept surrounding data structures and algorithmic thinking, which are two of the program outcomes. I also worked on improving the logic so it was easier to follow and ran more efficiently. This gave me the chance to refactor parts of the code thoughtfully and think through how different conditions and edge cases were handled.
+</details>
 
 - [Original Code](./cs300/CS-300%20Algorithms%20&%20Data%20Stuctures%20Project/CS-300%20Final%20Project%20ORIGINAL.zip)
 - [Enhanced Code](./cs300/CS-300%20Algorithms%20&%20Data%20Stuctures%20Project/CS499%20Milestone%203%20Code%20Enhancement.zip)
@@ -54,6 +58,9 @@ Hello! Welcome to my portfolio. Below are three key projects that demonstrate my
 ### CS-340: Animal Shelter Dashboard  
 **Category**: Databases  
 **Description**: A MongoDB-powered dashboard that visualizes animal shelter outcomes. Enhancements included optimization for large datasets and additional graph options for user interaction.
+<details> <summary><strong> What I Learned </strong></summary> <br>
+This project gave me the chance to experiment with data analysis and full stack development by building a dynamic, interactive dashboard. I used tools like Dash and Pandas to connect a database, manage user input, and display the data in a way that made sense. I feel that it helped me meet the learning outcome related to working with databases and current data tools, and also showed me how to make complex data easier for others to understand.
+</details>
 
 - [Original Code](./cs340/CS-340%20Animal%20Shelter%20Dashboard/CS340%20Project%20Two%20ORIGINAL.zip)
 - [Enhanced Code](./cs340/CS-340%20Animal%20Shelter%20Dashboard/CS499%20Module%205%20Milestone%20Four.zip)
@@ -61,9 +68,9 @@ Hello! Welcome to my portfolio. Below are three key projects that demonstrate my
 
 ---
 
-## Code Review Walkthrough
+## Code Review
 
-Watch my recorded code review, where I walk through each artifact and discuss enhancements made:  
+Watch my recorded code review, where I walk through each artifact and discuss my enhancement plan:  
 [ My Code Review on YouTube](https://www.youtube.com/watch?v=vbN04UZhdHo)
 
 ---
