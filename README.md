@@ -39,6 +39,9 @@ Working on the weight tracker app helped me strengthen my understanding of user 
 - [Enhanced Code](./cs360/CS-360%20Weight%20Tracker%20App/CS499%20ENHANCED%20CS360%20Project%202%20Weight%20Tracker.zip)
 - [Narrative](./cs360/CS-360%20Weight%20Tracker%20App/CS%20499%20Milestone%202%20Narrative.pdf)
 
+ ![image](https://github.com/user-attachments/assets/cd4ef33e-cee7-4111-8d93-710289f72346)
+
+
 
 ---
 
@@ -52,6 +55,10 @@ This project gave me the chance to improve my problem solving and algorithm desi
 - [Original Code](./cs300/CS-300%20Algorithms%20&%20Data%20Stuctures%20Project/CS-300%20Final%20Project%20ORIGINAL.zip)
 - [Enhanced Code](./cs300/CS-300%20Algorithms%20&%20Data%20Stuctures%20Project/CS499%20Milestone%203%20Code%20Enhancement.zip)
 - [Narrative](./cs300/CS-300%20Algorithms%20&%20Data%20Stuctures%20Project/CS499%20Milestone%203%20Narrative.pdf)
+
+![image](https://github.com/user-attachments/assets/5890d437-3cdd-460f-b815-2510999781a8)
+
+
   
 ---
 
@@ -65,6 +72,8 @@ The animal shelter project was a great opportunity to experiment with data analy
 - [Original Code](./cs340/CS-340%20Animal%20Shelter%20Dashboard/CS340%20Project%20Two%20ORIGINAL.zip)
 - [Enhanced Code](./cs340/CS-340%20Animal%20Shelter%20Dashboard/CS499%20Module%205%20Milestone%20Four.zip)
 - [Narrative](./cs340/CS-340%20Animal%20Shelter%20Dashboard/CS499%20Milestone%20Four%20Narrative.pdf)
+
+![image](https://github.com/user-attachments/assets/a1e3fa54-58ee-4ac8-9ff5-f46ace74050b)
 
 ---
 
